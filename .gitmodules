@@ -1,0 +1,4 @@
+[submodule "extern/FTXUI"]
+	path = extern/FTXUI
+	url = https://github.com/ArthurSonzogni/FTXUI.git
+	branch = master
