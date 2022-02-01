@@ -11,7 +11,7 @@ git clone --recurse-submodules https://github.com/georgjz/ftxui-cradle.git
 cd ftxui-cradle
 cmake -S . -B build -DCMAKE_BUILD-TYPE=Debug
 cmake --build build
-./build/ftxui-crade
+./build/ftxui-cradle
 ```
 
 Enjoy.
