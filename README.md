@@ -14,8 +14,13 @@ cmake --build build
 ./build/ftxui-cradle
 ```
 
+The code in this repository has been successfully tested with [gcc 11.3][gcc], [clang 14.0.0][clang], and [Microsoft Visual C++ 19.29.30141.0][msvc].
+
 Enjoy.
 
 [ftxui]: https://github.com/ArthurSonzogni/FTXUI
 [cmake]: https://cmake.org
 [g]: https://git-scm.com
+[gcc]: https://gcc.gnu.org
+[clang]: https://clang.llvm.org
+[msvc]: https://docs.microsoft.com/en-us/cpp/
