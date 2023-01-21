@@ -14,7 +14,7 @@ cmake --build build
 ./build/ftxui-cradle
 ```
 
-The code in this repository has been successfully tested with [gcc 11.3][gcc], [clang 14.0.0][clang], and [Microsoft Visual C++ 19.29.30141.0][msvc].
+The code in this repository has been successfully tested with [gcc 12.2][gcc], [clang 15.0.7][clang], and [Microsoft Visual C++ 19.34.31937][msvc].
 
 Enjoy.
 
